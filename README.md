@@ -1,4 +1,4 @@
-permalink: /index.html
+https://qlambkin.github.io/InstagramClone/
 
 # Getting Started with Create React App
 
