@@ -8,7 +8,7 @@ function FavoritesPage() {
     let content;
 
     if (favoritesCtx.totalFavorites === 0) {
-        content = <p>No Favorites Yet... das on u</p>
+        content = <p>No Favorites Yet</p>
     } else {
         content = <MeetupList meetups={favoritesCtx.favorites} />
     }

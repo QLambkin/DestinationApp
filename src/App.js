@@ -8,7 +8,7 @@ function App() {
   return (
     <Layout>
       <Routes>
-        <Route path='/InstagramClone' element={<AllMeetupsPage />}/> 
+        <Route path='/' element={<AllMeetupsPage />}/> 
         <Route path='/new-meetup' element={<NewMeetupsPage />}/> 
         <Route path='/favorites' element={<FavoritesPage />}/> 
       </Routes>

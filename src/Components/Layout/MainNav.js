@@ -9,15 +9,15 @@ function MainNav() {
     return(
         <header className={classes.header}>
             <div className={classes.logo}>
-                React Meetups
+                Destinations
             </div>
             <nav>
                 <ul>
-                    <li><Link to='/'>All Meetups</Link></li>
-                    <li><Link to='/new-meetup'>New Meetup</Link></li>
+                    <li><Link to='/'>All Spots</Link></li>
+                    <li><Link to='/new-meetup'>New Spots</Link></li>
                     <li>
                         <Link to='/favorites'>
-                            My Favorites
+                            Favorite Spots
                             <span className={classes.badge}>
                                 {favoritesCtx.totalFavorites}
                             </span>
