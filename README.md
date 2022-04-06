@@ -1,4 +1,4 @@
-https://qlambkin.github.io/InstagramClone/
+https://qlambkin.github.io/DestinationApp/
 
 # Getting Started with Create React App
 
